@@ -1,41 +1,69 @@
-## Hi there! 👋
+## Hi there 👋
 
-I'm **MonoxTI**, a passionate developer focused on creating impactful applications. I love tackling challenging problems and building solutions that enhance user experiences.
+I'm **MonoxTI** — a junior software developer focused on building real-world, scalable applications. I enjoy solving problems, learning fast, and turning ideas into working systems.
 
-## About Me
+---
 
-I'm a software developer with experience in various technologies. I enjoy working on diverse projects that allow me to refine my skills and learn new things. I currently have 6 public repositories showcasing my work. Feel free to explore them!
+## 🚀 About Me
 
-## Skills & Technologies
+- 🎓 Bachelor of Computing student  
+- 💻 Full-stack developer (modern web stack)  
+- ⚡ Strong focus on **backend systems, APIs, and real-time applications**  
+- 📚 Currently exploring **machine learning + networking**  
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,docker,dotnet,java,js,mongodb,postman&perline=8)](https://skillicons.dev)
+I don’t just learn — I build.
 
-## Top Projects
+---
 
+## 🛠️ Tech Stack
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,express,mongodb,postgres,prisma,docker,java,dotnet&perline=8)](https://skillicons.dev)
 
+---
 
+## 🔥 Featured Projects
 
+### 🔐 Authentication System
+- Built secure auth using **JWT, MongoDB, Nodemailer**
+- Includes login, registration, email verification, and token handling
+- Focus: security + scalable backend design
 
+### 🗺️ Real-Time Route Optimization App
+- React + TypeScript frontend with **WebSocket communication**
+- Processes geospatial data for live route updates
+- Focus: real-time systems + performance
 
-## GitHub Stats
-📊 **GitHub Stats**: 
-- Public Repositories: 6 
-- Followers: 1 
-- Following: 1
+### 📊 Data & Backend Systems
+- Worked with **Prisma + Neon** for cloud database management
+- Designed efficient schemas and handled backend optimization
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MonoxTI&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonoxTI&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-## Recent Activity
+## 📊 GitHub Stats
 
-- Pushed to [super-duper-robot](https://github.com/0101Keke/super-duper-robot) on **2025-10-20**.
-- Pushed to [super-duper-robot](https://github.com/0101Keke/super-duper-robot) on **2025-10-20**.
-- Pushed to [super-duper-robot](https://github.com/0101Keke/super-duper-robot) on **2025-10-20**.
-- Pushed to [super-duper-robot](https://github.com/0101Keke/super-duper-robot) on **2025-10-20**.
-- Pushed to [super-duper-robot](https://github.com/0101Keke/super-duper-robot) on **2025-10-20**.
+![Ecommerce website](https://github.com/MonoxTI/ecommerce2)
 
-## Connect with Me
+![Perconal Finance tracing]([https://github.com/MonoxTI/Personal_finance])
 
-Linkedin
-www.linkedin.com/in/itumeleng-monokoane-31797b2b5
+![Robotic Gaurd Dog](https://github.com/Shiva04-Dev/GuardDog)
+
+![Selene](https://github.com/weather-lore/selene)
+
+---
+
+## 📈 What I'm Working On
+
+- 🌐 Full-stack applications with **TypeScript & React**
+- 🧠 Machine learning projects in Python
+- 🌍 Networking labs using Cisco Packet Tracer
+- ⚙️ Improving system design & backend architecture skills
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/itumeleng-monokoane-31797b2b5
+
+---
+
+💡 *Always building. Always improving.*
