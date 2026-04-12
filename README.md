@@ -63,7 +63,7 @@ I don’t just learn — I build.
 ## 🤝 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/itumeleng-monokoane-31797b2b5
-- [CV](https://github.com/MonoxTI/Portfolio)
+- Resume: https://cv-beryl-rho.vercel.app/
 
 ---
 
